@@ -1,0 +1,9 @@
+{
+    "auth": true,
+    "description": "",
+    "messaging_url": "platform.clearblade.com:1883",
+    "name": "export",
+    "platform_url": "https://staging.clearblade.com",
+    "system_key": "f69df39e0b9aeeaea3e08ba38001",
+    "system_secret": "F69DF39E0BF0D4DCF3DA8BC0F836"
+}
